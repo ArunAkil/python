@@ -13,4 +13,4 @@ k=j*f
 k=((a*b)(c+(a+b)(d+e)))
 print("the value is=",k)"""
 
-print("hi hello world")
+print("hello world")
