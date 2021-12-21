@@ -1,4 +1,4 @@
-a = int(input("enter the a value="))
+"""a = int(input("enter the a value="))
 b = int(input("enter the b value="))
 c = int(input("enter the c value="))
 d =  int(input("enter the d value="))
@@ -11,4 +11,6 @@ i=g*h
 j=c+i
 k=j*f
 k=((a*b)(c+(a+b)(d+e)))
-print("the value is=",k)
+print("the value is=",k)"""
+
+print("hello world")
